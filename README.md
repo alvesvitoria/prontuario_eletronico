@@ -1,2 +1,2 @@
-# prontuario_eletronico
-Prontuário eletrônico feito com React Native.
+# Prontuário eletrônico feito cm React Native
+
